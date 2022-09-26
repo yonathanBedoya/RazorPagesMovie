@@ -16308,13 +16308,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16330,6 +16350,11 @@
     {
       "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jhonb\\OneDrive\\Escritorio\\TIC\\CICLO 3\\DESARROLLO DE SOFTWARE- 3\\PROGRAMACIÒN\\G45\\proyectos\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
